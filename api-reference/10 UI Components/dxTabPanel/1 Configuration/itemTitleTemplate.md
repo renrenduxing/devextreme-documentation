@@ -5,7 +5,7 @@ default: 'title'
 ---
 ---
 ##### shortDescription
-Specifies a custom template for item titles.
+Specifies a custom template for item titles.指定项目标题的自定义模板。
 
 ##### param(itemData): Object
 The current item's data.
